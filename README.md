@@ -1,6 +1,6 @@
 👋 Hi, I'm Syed Ateef!
 🎓 Final year Computer Science Engineering student at Rao Bahadur Y. Mahabaleshwarappa Engineering College
-💻 Tech enthusiast with 1 year of industry experience
+💻 Tech enthusiast with 3 year of industry experience
 🔧 Skilled in HTML, CSS, JavaScript, React Native, Python, C, SQL, Django, and Node.js
 🏆 Smart India Hackathon Grand Finalist and awarded for best project management in college projects
 🚀 Experienced in web and app development, machine learning, and game development
