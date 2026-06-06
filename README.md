@@ -1,10 +1,8 @@
 👋 Hi, I'm Syed Ateef!
-🎓 Final year Computer Science Engineering student at Rao Bahadur Y. Mahabaleshwarappa Engineering College
-💻 Tech enthusiast with 3 year of industry experience
-🔧 Skilled in HTML, CSS, JavaScript, React Native, Python, C, SQL, Django, and Node.js
-🏆 Smart India Hackathon Grand Finalist and awarded for best project management in college projects
-🚀 Experienced in web and app development, machine learning, and game development
-🌱 Currently working on a personal project, learning GitHub Actions, and building an app for paramedical services
-🎮 Passionate about building real-world applications and continuously learning new technologies
-🎤 Improving my English for public speaking
-👥 Recently attended a hackathon and working on a service-based company
+💻 Full-Stack Engineer | 0 ➡️ 1 Product Builder
+🚀 Specializing in React, Next.js, TypeScript & Python
+🛠️ Building fast, scalable web apps and AI-powered tools
+📦 Always shipping code, cracking complex problems, and raising the bar
+✨ "Standard rules are for standard engineers." 
+
+📫 Connect with me: https://www.linkedin.com/in/syed-ateef-quadri-v-4a55ab318/
